@@ -1,2 +1,2 @@
 # deep-learning-paper
-paper repository collecting classic paper on deep learning
+a repository collecting classic paper on deep learning
